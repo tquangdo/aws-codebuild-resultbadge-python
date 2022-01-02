@@ -1,0 +1,22 @@
+version: 0.2
+
+phases: 
+    install:
+        runtime-versions:
+            python: 3.8
+        commands:
+            - echo "Install dependencies..."
+    pre_build:
+        commands: 
+            - echo "PRE_BUILD phase"
+    build:
+        commands:
+            - echo "BUILD phase"
+            - python test.py
+    post_build:
+        commands:
+            - echo "POST_BUILD phase"
+            
+artifacts:
+  files:
+    - '**/*'
