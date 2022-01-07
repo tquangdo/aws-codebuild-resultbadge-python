@@ -17,6 +17,8 @@
 + run process in repo:
 1. Mặc định cấu hình life-cycle build dựa vào file `buildspec.yml` đặt ở thư mục root của source code
 > buildspec.yml là file config life-cycle khi build project (appspec.yml là file config life-cycle khi deploy project)
++ hoac cach khac la dung `Insert build commands`
+![buildspec](screenshots/buildspec.png)
 2. `buildspec.yml`
 ```yml
     build:
