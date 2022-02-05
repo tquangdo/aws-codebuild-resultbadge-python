@@ -9,8 +9,10 @@
 ---
 ![AWS CodeBuild](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoicFVrMUcvME5ueUhLbmNKZ0pzaTR1RGNxOEZIbFpES1NWZElDd1pGZWxRUGNLeHc3NTRQR052cnA4UCt1dUZ3ZnB0YWgvZnBybjJOSjhXRDQxYWtuZGpzPSIsIml2UGFyYW1ldGVyU3BlYyI6IkhCMExWMENWZDVqUlNVNGYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
 
+![detail](screenshots/detail.png)
 ## reference
 [haitrungblog](https://haitrung.net/ci-task-voi-github-va-aws-codebuild/)
+
 
 ## step by step
 ### 1) create a repo
